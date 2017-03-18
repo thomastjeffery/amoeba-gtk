@@ -1,0 +1,19 @@
+{
+    "editor": {
+        "font": {
+            "family": "Monospace",
+            "size": 14
+        },
+        "cursor": {
+            "style": "block",
+            "style": "vertical_bar",
+            "highlight_line": true,
+            "position": 12
+        },
+        "editor": {
+            "word_wrap": true
+        }
+    },
+    "keymap": {
+    }
+}
